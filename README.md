@@ -1,11 +1,42 @@
-# Starter React Project for the Supabase Course
+By Didier Maniraho
+(DidierManiraho@github.com)
+---
 
-**How to run the starter project:**
+### 🤔 Problem 
+<!-- Share a brief detail on the problem you're trying to solve) -->
+everyone has access on the internet whether is teacher of student, before you find paper hanging around on the board whether is the anouncement not any more.
 
-1. Once downloaded, navigate to the project directory in a terminal and run **npm install** to install all the project dependencies.
-2. In the project directory, run **npm start** to run the app & view it in a browser at [http://localhost:3000](http://localhost:3000).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-# ThreeBridge
-# Three-bridge
+---
+
+### 😃 Solution
+<!-- Share your brief solution to this problem, your description should be non-technical) -->
+ ThreeBridge is a tool that eliminate news or simple anouncement with no distractions only simple notes created by the teacher.
+ 
+ 
+#### Implement the system to help student and parent to keep track in realtime .
+
+---
+
+### 🛤️ The Process
+<!-- itemized the key parts of your process for building this app (framed around the milestones) -->
+- figma prototype,
+- github for milestone
+- figjam for database design
+- setup supabase 
+- install tailwindcss,daisyUI
+- setup react tools(react-router-dom)
+- final: hosting on versel
+
+
+---
+
+<!-- itemized the techologies your used -->
+### ⚙️ Stack & Technologies
+- Prototype/Mockup: Figma
+- Version Control: Github 
+- Hosting: Versel
+- Project Management: Github Issues
+- HTML/CSS: Tailwind and DaisyUI
+- Frontend: React
+- Backend: Supabase
